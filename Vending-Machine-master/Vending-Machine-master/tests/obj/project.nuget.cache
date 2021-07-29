@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "wlIIbYBmAKCmhRgbXVBqfV84YVyCrXn63u3ZHiy9NDdQ3R2/SY9l+qotsMkezadfqDQLoUxqYm/92Lx+sc+1lw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\sajitha.k.johny\\Downloads\\Vending-Machine-master\\Vending-Machine-master\\tests\\Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project vendingMachine is not compatible with netcoreapp1.1 (.NETCoreApp,Version=v1.1). Project vendingMachine supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "vendingMachine",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    }
+  ]
+}
