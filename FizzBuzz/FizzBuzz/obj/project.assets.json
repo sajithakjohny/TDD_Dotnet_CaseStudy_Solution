@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CNHI-KT\\TDD\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+      "projectUniqueName": "C:\\CNHI-KT-Angular\\TDD_Dotnet_CaseStudy_Solution\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
       "projectName": "FizzBuzz",
-      "projectPath": "C:\\CNHI-KT\\TDD\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+      "projectPath": "C:\\CNHI-KT-Angular\\TDD_Dotnet_CaseStudy_Solution\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
       "packagesPath": "C:\\Users\\sajitha.k.johny\\.nuget\\packages\\",
-      "outputPath": "C:\\CNHI-KT\\TDD\\FizzBuzz\\FizzBuzz\\obj\\",
+      "outputPath": "C:\\CNHI-KT-Angular\\TDD_Dotnet_CaseStudy_Solution\\FizzBuzz\\FizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
